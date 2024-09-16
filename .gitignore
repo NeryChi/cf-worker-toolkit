@@ -1,0 +1,29 @@
+# Dependencias de Node.js
+node_modules/
+
+# Salida del proceso de compilación
+dist/
+
+# Archivos de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variables de entorno y configuración
+.env
+.env.local
+.env.*.local
+
+# Archivos específicos de editores de texto
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+
+# Cobertura de pruebas
+coverage/
+
+# Otros archivos temporales o de caché
+.tmp/
+.cache/
